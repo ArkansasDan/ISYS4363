@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUcr2AU7nzj0uKIhAOZFRbm+Fw9ok90lOPNsUaUb0z4lWawM7XzlC2zdzcsqapYwnx825zvuKYqziThIsAAwaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dgconway\\Desktop\\GitClassExample\\Week7ClassExample\\Week7ClassExample\\Week7ClassExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dgconway\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
